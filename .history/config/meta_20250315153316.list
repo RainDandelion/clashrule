@@ -4,8 +4,9 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,sidequestvr.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,fdcdn.net
-DOMAIN-SUFFIX,in.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
 # DOMAIN-SUFFIX,oculus.store
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,bobovr.com
+cdn-lfs.hf.co
