@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,huggingface
+DOMAIN-KEYWORD,cursor
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -28,3 +29,4 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,cdn-lfs.hf.co
+DOMAIN-SUFFIX,cursor.com
