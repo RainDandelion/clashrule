@@ -1,14 +1,19 @@
 # 内容：自用
+DOMAIN-KEYWORD,ddownload
 DOMAIN-KEYWORD,2dfan
 DOMAIN-KEYWORD,acgrip
 DOMAIN-KEYWORD,dmhy
 DOMAIN-KEYWORD,nyaa
+DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,vikacg
+DOMAIN-KEYWORD,anime-sharing
 DOMAIN-KEYWORD,2djgame
 DOMAIN-KEYWORD,dyndns
 DOMAIN-KEYWORD,cangku
-DOMAIN-KEYWORD,ggbases
+DOMAIN-KEYWORD,ggbases 
+DOMAIN-KEYWORD,south-plus
 DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,exhentai
 DOMAIN-KEYWORD,ai2.moe
 DOMAIN-KEYWORD,acgndog
 DOMAIN-SUFFIX,bgm.tv
@@ -43,3 +48,9 @@ DOMAIN-SUFFIX,gmgard.com
 DOMAIN-SUFFIX,ai2.moe
 DOMAIN,hb.imgix.net
 DOMAIN,hxcy.top
+DOMAIN,exhentai.org
+DOMAIN,acg.rip
+DOMAIN,share.acgnx.se
+DOMAIN,www.anime-sharing.com
+
+
